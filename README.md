@@ -1,5 +1,5 @@
 # Attendence Tracker
-**//Based on OpenCv and face recognition.//**
+**_Based on OpenCv and face recognition._**
 
-==attdprj.py== -> main project; once it recognizes the face it will input in the name & timestamp in the Attendence.csv file.\\
-==m.py== -> face_recognition module test with image.
+___attdprj.py___ -> main project; once it recognizes the face it will input in the name & timestamp in the Attendence.csv file.\
+___m.py___ -> face_recognition module test with image.
