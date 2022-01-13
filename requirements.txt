@@ -7,4 +7,4 @@ face-recognition-models==0.3.0
 mysqlclient==1.4.6
 numpy==1.18.5
 opencv-python==4.2.0.34
-Pillow==8.3.2
+Pillow==9.0.0
